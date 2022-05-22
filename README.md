@@ -1,5 +1,8 @@
 ![OverStimulated](https://github-readme-stats.vercel.app/api?username=MaiSakuraGoBRR&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiSakuraGoBRR&layout=compact&show_icons=true&theme=tokyonight)
 
+
+![OverStimulated](https://cdn.discordapp.com/attachments/973777385881219092/977822938940207154/gracis.png)
+
 # OverStimulated
 
 My name is OverStimulated and I create programs in C++, C#, and Lua.
