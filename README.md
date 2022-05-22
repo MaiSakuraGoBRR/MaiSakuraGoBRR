@@ -1,7 +1,8 @@
 ![OverStimulated](https://github-readme-stats.vercel.app/api?username=MaiSakuraGoBRR&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiSakuraGoBRR&layout=compact&show_icons=true&theme=tokyonight)
 
-
-![OverStimulated](https://cdn.discordapp.com/attachments/973777385881219092/977822938940207154/gracis.png)
+<p align="center">
+  <img width="460" height="300" src="https://cdn.discordapp.com/attachments/973777385881219092/977822938940207154/gracis.png">
+</p>
 
 # OverStimulated
 
