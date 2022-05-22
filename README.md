@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<MaiSakuraGoBRR>&theme=<dark>"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiSakuraGoBRR&show_icons=true&theme=tokyonight)
 
 # OverStimulated
 
