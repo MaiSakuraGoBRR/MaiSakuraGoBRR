@@ -1,6 +1,6 @@
-![OverStimulated](https://github-readme-stats.vercel.app/api?username=MaiSakuraGoBRR&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiSakuraGoBRR&layout=compact&show_icons=true&theme=tokyonight)
-
 <p align="center">
+  <img width="600" height="150" src="https://github-readme-stats.vercel.app/api?username=MaiSakuraGoBRR&show_icons=true&theme=tokyonight">
+  <img width="600" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiSakuraGoBRR&layout=compact&show_icons=true&theme=tokyonight">
   <img width="600" height="150" src="https://cdn.discordapp.com/attachments/973777385881219092/977822938940207154/gracis.png">
 </p>
 
