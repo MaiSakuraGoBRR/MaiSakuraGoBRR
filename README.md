@@ -1,3 +1,5 @@
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 # OverStimulated
 
 My name is OverStimulated and I create programs in C++, C#, and Lua.
