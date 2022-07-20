@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maisakuragobrr&label=Profile%20views&color=0e75b6&style=flat" alt="maisakuragobrr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maisakuragobrr" alt="maisakuragobrr" /></a> </p>
-
 - 🔭 I’m currently working on **Discord bugs and exploits.**
 
 - 🌱 I’m currently learning **Lua, C++, and C#.**
