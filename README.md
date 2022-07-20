@@ -1,22 +1,29 @@
-<p align="center">
-  <img width="600" height="150" src="https://github-readme-stats.vercel.app/api?username=MaiSakuraGoBRR&show_icons=true&theme=tokyonight">
-  <img width="600" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiSakuraGoBRR&layout=compact&show_icons=true&theme=tokyonight">
-  <img width="600" height="150" src="https://cdn.discordapp.com/attachments/973777385881219092/977822938940207154/gracis.png">
+<h1 align="center">Hi 👋, I'm OverStimulated</h1>
+<h3 align="center">I'm an anonymous programmer from the U.S. I'll say I'm from SF. My profile is for educational purposes.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maisakuragobrr&label=Profile%20views&color=0e75b6&style=flat" alt="maisakuragobrr" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maisakuragobrr" alt="maisakuragobrr" /></a> </p>
+
+- 🔭 I’m currently working on **Discord bugs and exploits.**
+
+- 🌱 I’m currently learning **Lua, C++, and C#.**
+
+- 📫 How to reach me **Nothing yet.**
+
+- ⚡ Fun fact **I'm bad at programming.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/maisakuragobrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/maisakuragobrr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucro6a1b7kjrx9bkcvimml4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucro6a1b7kjrx9bkcvimml4g" height="30" width="40" /></a>
 </p>
 
-# OverStimulated
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
 
-My name is OverStimulated and I create programs in C++, C#, and Lua.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maisakuragobrr&show_icons=true&locale=en&layout=compact" alt="maisakuragobrr" /></p>
 
-## What do I do?
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maisakuragobrr&show_icons=true&locale=en" alt="maisakuragobrr" /></p>
 
-I am a part-time programmer that takes place in Roblox, games, and other instituts of development.
-I love cats, and I am a person in San Francisco.
-
-## Can I request something?
-
-Unfortunatly, I am currently not accepting any forms of commisions or contributions for a program you would like me to do.
-I may be available at other times but not at the moment.
-
-
-Please stay safe and thank you for reading.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maisakuragobrr&" alt="maisakuragobrr" /></p>
