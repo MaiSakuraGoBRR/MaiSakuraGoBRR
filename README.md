@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maisakuragobrr&label=Profile%20views&color=0e75b6&style=flat" alt="maisakuragobrr" /> </p>
 
-- 🔭 I’m currently working on **Discord bugs and exploits.**
+- 🔭 I’m currently working on **rblx exploits lol**
 
-- 🌱 I’m currently learning **Lua, C++, and C#.**
+- 🌱 I’m currently learning **idk**
 
-- 📫 How to reach me **Nothing yet.**
-
-- ⚡ Fun fact **I'm bad at programming.**
+- 📫 How to reach me **naturlistic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
